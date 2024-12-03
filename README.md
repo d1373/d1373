@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm  Dhyey Swadia</h1>
-<p>A passionate Web Development and Machine Learning Student from Mumbai, India</p>
+<center>[![](https://visitcount.itsvg.in/api?id=d1373&icon=0&color=6)](https://visitcount.itsvg.in)</center>
+<br>
+⚡ A passionate Web Development and Machine Learning Student from Mumbai, India<br>🔭 I’m currently working on Time Series Forecasting for Waste bin Management<br>🌱 I’m Final Year Engineering Student from the Department of Information Technology<br><br>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -22,5 +24,5 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Dhyey Swadia" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/dhyey-swadia-a5628a231/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=d1373&show_icons=true&locale=en&layout=compact" alt="d1373" /></p>
