@@ -1,9 +1,4 @@
 <h1>Hi 👋, I'm  Dhyey Swadia</h1>
-<center>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=d1373&label=Profile%20Views&color=6&icon=0&pretty=false" />
-</a>
-</center>
 <br>
 ⚡ A passionate Web Development and Machine Learning Student from Mumbai, India<br>🔭 I’m currently working on Time Series Forecasting for Waste bin Management<br>🌱 I’m Final Year Engineering Student from the Department of Information Technology<br><br>
 <h2>🚀 Languages and Tools I Use</h2>
