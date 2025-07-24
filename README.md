@@ -24,4 +24,4 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/dhyey-swadia-a5628a231/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1373&theme=react&show_icons=true&hide_border=false&layout=compact" alt="d1373" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1373&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="d1373" /></p>
