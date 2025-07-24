@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm  Dhyey Swadia</h1>
 <br>
-⚡ A passionate Web Development and Machine Learning Student from Mumbai, India<br>🔭 I’m currently working on Time Series Forecasting for Waste bin Management<br>🌱 I’m Final Year Engineering Student from the Department of Information Technology<br><br>
+ ⚡ A passionate Web Development and Machine Learning Graduate from Mumbai, India<br>🔭 My Flagship Final Year project was on <a target="_blank" href="https://www.github.com/d1373/envirosage"> Time Series Forecasting for Waste bin Management</a><br>🌱 I graduated from Thakur College of Engineering and Technology from the Department of Information Technology<br><br>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
